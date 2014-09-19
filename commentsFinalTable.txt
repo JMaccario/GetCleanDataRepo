@@ -1,0 +1,13 @@
+* col 1 : Subject : the code of the subjects, int from 1 to 30
+
+* col 2 : ActivityNames : the type of activity while recording, 6 values :
+	WALKING 
+	WALKING_UPSTAIRS
+	WALKING_DOWNSTAIRS
+	SITTING
+	STANDING
+	LAYING   
+
+* from col 3 to col 81, the means of means and means of standard deviations of the features described in the file 
+./UCI HAR Dataset/features_info.txt
+
