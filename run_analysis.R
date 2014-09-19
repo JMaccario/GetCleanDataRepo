@@ -72,13 +72,3 @@ setnames(finalTidyFrame,OldNames,NewNames)
 
 write.table(finalTidyFrame,file="finalTable.txt",row.names=F)
 
-
-
-
-
-
-
-
-
-}
-
